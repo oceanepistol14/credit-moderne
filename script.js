@@ -1,6 +1,6 @@
 window.onload = function() {
 
-const phrase = "Passionnée par le digital et la tech, je souhaite rejoindre la BNP PARIBAS pour contribuer à des projets innovants dès ma première année de BTS SIO.";
+const phrase = "Motivée par le secteur bancaire et la relation client, je souhaite intégrer Crédit Moderne en BTS Banque pour développer mes compétences et m’investir dans des missions concrètes au service des clients.";
 
 function ecrireLettre(element, texte, callback) {
   let i = 0;
